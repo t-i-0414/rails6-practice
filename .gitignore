@@ -1,5 +1,0 @@
-/apps/*
-!/apps/.keep
-/tmp/*
-!/tmp/.keep
-docker-compose.override.yml
