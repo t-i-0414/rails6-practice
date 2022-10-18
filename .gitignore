@@ -40,5 +40,5 @@ yarn-debug.log*
 !/tmp/.keep
 docker-compose.override.yml
 
-vendor/bundle
 .vscode
+vendor/bundle
